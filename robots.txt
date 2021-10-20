@@ -1,0 +1,5 @@
+# foundation.funsci.org/robots.txt
+# Tell Google not to crawl any files in the resources folder,
+# because they won't be useful in Google Search results.
+User-agent: googlebot
+Disallow: /resources/
